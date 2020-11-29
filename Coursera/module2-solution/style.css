@@ -1,0 +1,39 @@
+body {
+    margin: 5px;
+}
+
+p {
+    padding-top: 15px;
+}
+
+div {
+    border: 2px solid black;
+    margin-right: 12px;
+    margin-left: 6px;
+    padding: 5px;
+    width: 32%;
+    background-color: lightgray;
+    text-align: justify;
+    float: left;
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+div h4 {
+    padding: 5px;
+    border: 2px solid black;
+    background-color: lightsalmon;
+    border-radius: 10px;
+    width: 25%;
+    position: absolute;
+    top: -23px;
+    right: -1px;
+    text-align: center;
+  
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+}
