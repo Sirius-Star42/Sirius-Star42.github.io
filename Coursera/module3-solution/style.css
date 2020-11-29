@@ -1,0 +1,23 @@
+body {
+    background-color: #A2DCEE;
+}
+
+#brandLogo {
+    border-radius: 45px;
+    margin-right: 15px;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    
+}
+.collapse {
+    position: relative;
+    
+}
+
+.navbar-nav {
+    position: absolute;
+    right: 20px;
+}
