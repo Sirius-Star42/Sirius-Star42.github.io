@@ -1,8 +1,6 @@
 # Responsible Design with Bootstrap
 
-Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
-
-My Account of Linked :  [Talk to me](https://www.linkedin.com/in/sirius-star/)
+Talk to me :  [My Account of Linked](https://www.linkedin.com/in/sirius-star/)
 
 Woo-hoo! MORE CODING!!! Exciting! :-)
 
