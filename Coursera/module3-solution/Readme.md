@@ -42,6 +42,5 @@ Here is the mockup illustration of the desktop & tablet version of the site :
 
 Here is the mockup illustration of the mobile view (only required graded parts are shown):
 
- ![mobile collapsed](images/menu-collapsed.PNG)
-
- ![mobile expanded](images/mobile-expanded.PNG)
+![Mobile - Optional (Closed)](images/menu-collapsed.PNG)
+![Mobile - Optional (Open)](images/mobile-expanded.PNG)
