@@ -19,12 +19,6 @@ body {
     
 }
 
-/* .navbar-nav {
-    position: absolute;
-    right: 20px;
-    
-} */
-
 .nav-link {
     display: flex;
     align-items: center;
