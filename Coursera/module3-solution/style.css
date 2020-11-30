@@ -19,6 +19,7 @@ body {
     
 }
 
+
 .nav-link {
     display: flex;
     align-items: center;
@@ -52,6 +53,16 @@ body {
     .col-sm-12 {
         margin-top: 35px;
     }
+    .jumbotron {
+        padding: 20px;
+    }
+    .jumbotron div h1 {
+        font-size: 2.0em;
+    }
+
+    .jumbotron div p {
+        font-size: 1em;
+    }
 }
 @media (max-width : 575px) {
     .col-xs-12 {
@@ -75,5 +86,4 @@ body {
     #footer-text {
         font-size: 0.8rem;
     }
-   
 }
