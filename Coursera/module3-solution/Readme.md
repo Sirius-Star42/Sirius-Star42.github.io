@@ -1,16 +1,16 @@
-# Module 3 Coding Assignment
+# Responsible Design with Bootstrap
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-Linked :  [Talk to me](https://www.linkedin.com/in/sirius-star/)
+My Account of Linked :  [Talk to me](https://www.linkedin.com/in/sirius-star/)
 
 Woo-hoo! MORE CODING!!! Exciting! :-)
 
 This working inculedes that :
-->Card-Grid in BootStrap
-->Navbar responsive design compatible with 3 mockup(desktop,tablet,mobil devices)
-->Used media query
-->Jumbotron and footer compenent in BootStrap
+* Card-Grid in BootStrap
+* Navbar responsive design compatible with 3 mockup(desktop,tablet,mobil devices)
+* Used media query
+* Jumbotron and footer compenent in BootStrap
 
 
 1. Since we are using Bootstrap for this assignment, instead of specifying pixel ranges, I will define our desktop, tablet, and mobile views in terms of Bootstrap CSS class prefixes, i.e., `md`, `sm`, and `xs`.
@@ -37,19 +37,11 @@ The dropdown menu should take up the entire width of the browser window. Make su
 
 Here is the mockup illustration of the desktop & tablet version of the site :
 
- ![Desktop and Tablet](images/desktop.png)
+ ![Desktop and Tablet](images/desktop.PNG)
 
 
 Here is the mockup illustration of the mobile view (only required graded parts are shown):
 
- ![mobile collapsed](images/menu-collapsed.png)
+ ![mobile collapsed](images/menu-collapsed.PNG)
 
- ![mobile expanded](images/mobile-expanded.png)
-
-
-**&#42;&#42;&#42; REQUIRED GRADED ASSIGNMENT ENDS HERE &#42;&#42;&#42;**  
-<br>
-<br>
-<br>
-<br>
-
+ ![mobile expanded](images/mobile-expanded.PNG)
