@@ -10,4 +10,4 @@ Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.cour
  * For Loop
  * String Method
 
-![Console Log Print Out](assignment4-solution-starter\easier\Console_Log.PNG)
+![Console Log Print Out](Console_Log.PNG)

@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\siriu\\SITES\\Sirius-Star42.github.io\\Coursera\\module4-solution\\assignment4-solution-starter\\easier\\index.html"
+            "file": "c:\\Users\\siriu\\SITES\\Sirius-Star42.github.io\\Coursera\\module4-solution\\index.html"
         }
     ]
 }
