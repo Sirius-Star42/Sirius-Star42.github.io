@@ -83,10 +83,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
 showLoading("#main-content");
 $ajaxUtils.sendGetRequest(
   allCategoriesUrl,
-  function (responseText) {
-    document.querySelector("#main-content")
-      .innerHTML = responseText;
-  }, // ***** <---- TODO: STEP 1: Substitute [...] ******
+  buildAndShowHomeHTML,
+   // ***** <---- TODO: STEP 1: Substitute [...] ******
   true); // Explicitly setting the flag to get JSON from server processed into an object literal
 });
 // *** finish **
@@ -100,19 +98,12 @@ function buildAndShowHomeHTML (categories) {
   $ajaxUtils.sendGetRequest(
     homeHtmlUrl,
     function (homeHtml) {
-      $ajaxUtils.sendGetRequest(
-        categoryHtml,
-        function (categoryHtml){
-          var chosenCategoryShortName = 
-            buildCategoriesViewHtml(categories, categoriesTitleHtml, categoryHtml);
-        }
-      )
-    
+      var chosenCategoryShortName = "'"+chooseRandomCategory(categories).short_name+"'";
+      var homeHtmlToInsertIntoMainPage = insertProperty(homeHtml, "randomCategoryShortName", chosenCategoryShortName);
+      insertHtml("#main-content", homeHtmlToInsertIntoMainPage);
+
+       
       
-
-
-    
-      var homeHtmlToInsertIntoMainPage = insertHtml ("#main-content", categoriesViewHtml);
 
 
       // TODO: STEP 4: Insert the the produced HTML in STEP 3 into the main page
