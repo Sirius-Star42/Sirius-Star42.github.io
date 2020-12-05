@@ -1,3 +1,8 @@
+body {
+  
+}
+
+
 
 .img-fluid , .rounded-circle {
   width: 2.8em;
@@ -13,4 +18,7 @@
 h2 {
   color: white;
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.jumbotron {
+  padding: 15px;
 }
