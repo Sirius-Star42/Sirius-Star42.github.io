@@ -1,9 +1,16 @@
-.jumbotron {
-    background-color: orchid;
-    color: white;
+
+.img-fluid , .rounded-circle {
+  width: 2.8em;
+  
 }
 
-.footer {
-    background-color: lightgray;
+.navbar {
+  background-color: #0f6bae;
+  height: min-content;
+  padding: 1px 10px 1px 10px;
 }
 
+h2 {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
