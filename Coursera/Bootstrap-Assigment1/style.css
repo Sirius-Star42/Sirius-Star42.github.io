@@ -1,5 +1,5 @@
 body {
-  background-color: #5e4daa;
+  background-color: #4f80e2;
 }
 
 
@@ -20,7 +20,7 @@ h2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .jumbotron {
-  background-color: #5e4daa ;
+  background-color: #4f80e2 ;
   color: white;
 }
 
@@ -36,7 +36,11 @@ h2 {
   color: white;
 }
 
-.form-group .btn {
-  background-color: #5e4daa ;
+.footer {
+  background-color: #a16ef7;
+  color: white;
+}
+
+li a, .mail{
   color: white;
 }
