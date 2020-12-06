@@ -20,7 +20,8 @@ h2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .jumbotron {
-  padding: 15px;
+  background-color: #5e4daa ;
+  color: white;
 }
 
 .card-header {
@@ -35,7 +36,7 @@ h2 {
   color: white;
 }
 
-.btn {
+.form-group .btn {
   background-color: #5e4daa ;
   color: white;
 }
