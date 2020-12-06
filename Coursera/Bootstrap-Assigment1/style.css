@@ -10,7 +10,7 @@ body {
 }
 
 .navbar {
-  background-color: #0f6bae;
+  background-color: #a16ef7;
   height: min-content;
   padding: 1px 10px 1px 10px;
 }
@@ -21,4 +21,9 @@ h2 {
 }
 .jumbotron {
   padding: 15px;
+}
+
+.card-header {
+  font-size: 2em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
