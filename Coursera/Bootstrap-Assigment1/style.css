@@ -27,3 +27,11 @@ h2 {
   font-size: 2em;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.col-12, .col-md-3 {
+  align-self: center;
+}
+.container-fluid {
+  background-color:  #a16ef7;
+  color: white;
+}
