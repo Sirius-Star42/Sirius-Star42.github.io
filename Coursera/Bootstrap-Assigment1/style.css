@@ -1,5 +1,5 @@
 body {
-  
+  background-color: #5e4daa;
 }
 
 
@@ -32,6 +32,10 @@ h2 {
   align-self: center;
 }
 .container-fluid {
-  background-color:  #a16ef7;
+  color: white;
+}
+
+.btn {
+  background-color: #5e4daa ;
   color: white;
 }
